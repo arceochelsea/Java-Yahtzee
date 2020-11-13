@@ -1,0 +1,1 @@
+This repo will follow the creation of a Yahtzee application written in Java. 
